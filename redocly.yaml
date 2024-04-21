@@ -1,0 +1,4 @@
+apis:
+  sodoto:
+    root: ./openapi/sodoto.yaml
+  
